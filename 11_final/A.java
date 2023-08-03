@@ -1,0 +1,3 @@
+class T extend String {
+     
+}
